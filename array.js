@@ -71,10 +71,14 @@
 // ar.splice(1,2,"khan")
 // console.log(ar)
 //spread opreator
-let ar1=[1,2,3,4]
-let ar2=[5,6,7,8]
-let ar3=[...ar1,...ar2]
-console.log(ar3)
+// let ar1=[1,2,3,4]
+// let ar2=[5,6,7,8]
+// let ar3=[...ar1,...ar2]
+// console.log(ar3)
+//==================================
+let [name,age,ci,cl]=["sumit",23,"bpl","tit"]
+console.log(ci)
+
 
 
     

@@ -10,16 +10,54 @@
     // code.style.padding ="20px"
     // code.style.cssText="background-color:red;color:white;padding:20px"//isme ek hi sth bhut saara property lga skte ha
    // document.getElementById('htmlimage').src="bottle.jpeg"//ye image kp change krme ke liye hai
-   function fun(){
-    alert("working......")
-   }
+   // function fun(){
+   //  alert("working......")
+   // }
 //    function change(){
 //     document.getElementById('text').textContent="text changed"
 //    }
-   function  change(){
-    let hover=document.getElementById('h1')
-    hover.textContent="text changed"
-    hover.style.color="red"
+//========================================================================
+   // function  change(){
+   //  let hover=document.getElementById('h1')
+   //  hover.textContent="text changed"
+   //  hover.style.color="red"
 
-   }
-   //abcd
+   // }
+   //    function  change1(){
+   //  let hover=document.getElementById('h1')
+   //  hover.textContent="hover"
+   //  hover.style.color="black"
+
+   // }
+   
+   //====================================================================================
+   //increment and decrement question
+//    var num=0
+//    function counter(){
+//       document.getElementById("count").textContent=++num
+//    }
+//   var num1=10;
+//    function counter1(){
+//       document.getElementById("count").textContent=--num1;
+//    }
+   //=====================================================================================================
+   // var num=0;
+//    function reset(){
+//       num=0
+//       document.getElementById("count").textContent=num;
+
+//    }
+//    function reset(){
+//       if(num>0){
+
+//       document.getElementById("count").textContent=num;
+
+//    }
+//    else{
+//       alert("no less than 0")
+//    }
+// }
+//========================================================================================================
+
+   
+
